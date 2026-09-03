@@ -9,3 +9,5 @@ C:\Users\Victor\Desktop\SEMESTRE 8\ANALISIS SIS 2\CapacitacionMVC\practica1\Tall
 C:\Users\Victor\Desktop\SEMESTRE 8\ANALISIS SIS 2\CapacitacionMVC\practica1\TallerMVC_1\CapaVista_Taller\obj\Debug\CapaVist.420ED808.Up2Date
 C:\Users\Victor\Desktop\SEMESTRE 8\ANALISIS SIS 2\CapacitacionMVC\practica1\TallerMVC_1\CapaVista_Taller\obj\Debug\CapaVista_Taller.frmPrincipal.resources
 C:\Users\Victor\Desktop\SEMESTRE 8\ANALISIS SIS 2\CapacitacionMVC\practica1\TallerMVC_1\CapaVista_Taller\obj\Debug\CapaVista_Taller.csproj.GenerateResource.cache
+C:\Users\Victor\Desktop\SEMESTRE 8\ANALISIS SIS 2\CapacitacionMVC\practica1\TallerMVC_1\CapaVista_Taller\bin\Debug\CapaModelo_Taller.dll
+C:\Users\Victor\Desktop\SEMESTRE 8\ANALISIS SIS 2\CapacitacionMVC\practica1\TallerMVC_1\CapaVista_Taller\bin\Debug\CapaModelo_Taller.pdb
