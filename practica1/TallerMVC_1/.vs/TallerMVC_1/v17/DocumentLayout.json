@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{F1CDD4DA-C48D-463B-992A-B2F007B8CA2D}|CapaControlador_Taller\\CapaControlador_Taller.csproj|solutionrelative:capacontrolador_taller\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79AE2907-2A90-4F2C-B7D9-9E364568998D}|CapaModelo_Taller\\CapaModelo_Taller.csproj|c:\\users\\victor\\desktop\\semestre 8\\analisis sis 2\\capacitacionmvc\\practica1\\tallermvc_1\\capamodelo_taller\\sentencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79AE2907-2A90-4F2C-B7D9-9E364568998D}|CapaModelo_Taller\\CapaModelo_Taller.csproj|C:\\Users\\Victor\\Desktop\\SEMESTRE 8\\ANALISIS SIS 2\\CapacitacionMVC\\practica1\\TallerMVC_1\\capamodelo_taller\\sentencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79AE2907-2A90-4F2C-B7D9-9E364568998D}|CapaModelo_Taller\\CapaModelo_Taller.csproj|solutionrelative:capamodelo_taller\\sentencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -55,8 +55,7 @@
               "RelativeToolTip": "CapaControlador_Taller\\Controlador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T06:13:35.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-03T06:13:35.774Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "ToolTip": "C:\\Users\\Victor\\Desktop\\SEMESTRE 8\\ANALISIS SIS 2\\CapacitacionMVC\\practica1\\TallerMVC_1\\CapaVista_Taller\\frmPrincipal.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaVista_Taller\\frmPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T05:45:48.955Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-09-03T05:45:48.955Z"
             },
             {
               "$type": "Document",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "CapaModelo_Taller\\Sentencia.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T06:03:30.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-03T06:03:30.877Z"
             },
             {
               "$type": "Document",
