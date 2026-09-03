@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Victor\\Desktop\\SEMESTRE 8\\ANALISIS SIS 2\\CapacitacionMVC\\practica1\\TallerMVC_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EDF124F-0E57-4264-8EAD-38089E191C6D}|TallerMVC_1\\TallerMVC_1.csproj|c:\\users\\victor\\desktop\\semestre 8\\analisis sis 2\\capacitacionmvc\\practica1\\tallermvc_1\\tallermvc_1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EDF124F-0E57-4264-8EAD-38089E191C6D}|TallerMVC_1\\TallerMVC_1.csproj|solutionrelative:tallermvc_1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D20F083-095C-41F2-8C06-C16CE130ECF8}|CapaVista_Taller\\CapaVista_Taller.csproj|c:\\users\\victor\\desktop\\semestre 8\\analisis sis 2\\capacitacionmvc\\practica1\\tallermvc_1\\capavista_taller\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D20F083-095C-41F2-8C06-C16CE130ECF8}|CapaVista_Taller\\CapaVista_Taller.csproj|solutionrelative:capavista_taller\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\SEMESTRE 8\\ANALISIS SIS 2\\CapacitacionMVC\\practica1\\TallerMVC_1\\TallerMVC_1\\Class1.cs",
-              "RelativeDocumentMoniker": "TallerMVC_1\\Class1.cs",
-              "ToolTip": "C:\\Users\\Victor\\Desktop\\SEMESTRE 8\\ANALISIS SIS 2\\CapacitacionMVC\\practica1\\TallerMVC_1\\TallerMVC_1\\Class1.cs",
-              "RelativeToolTip": "TallerMVC_1\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "frmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\SEMESTRE 8\\ANALISIS SIS 2\\CapacitacionMVC\\practica1\\TallerMVC_1\\CapaVista_Taller\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "CapaVista_Taller\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\SEMESTRE 8\\ANALISIS SIS 2\\CapacitacionMVC\\practica1\\TallerMVC_1\\CapaVista_Taller\\frmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaVista_Taller\\frmPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T05:32:21.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-03T05:45:48.955Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

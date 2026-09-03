@@ -1,0 +1,6 @@
+C:\Users\Victor\Desktop\SEMESTRE 8\ANALISIS SIS 2\CapacitacionMVC\practica1\TallerMVC_1\CapaModelo_Taller\bin\Debug\CapaModelo_Taller.dll
+C:\Users\Victor\Desktop\SEMESTRE 8\ANALISIS SIS 2\CapacitacionMVC\practica1\TallerMVC_1\CapaModelo_Taller\bin\Debug\CapaModelo_Taller.pdb
+C:\Users\Victor\Desktop\SEMESTRE 8\ANALISIS SIS 2\CapacitacionMVC\practica1\TallerMVC_1\CapaModelo_Taller\obj\Debug\CapaModelo_Taller.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\SEMESTRE 8\ANALISIS SIS 2\CapacitacionMVC\practica1\TallerMVC_1\CapaModelo_Taller\obj\Debug\CapaModelo_Taller.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\SEMESTRE 8\ANALISIS SIS 2\CapacitacionMVC\practica1\TallerMVC_1\CapaModelo_Taller\obj\Debug\CapaModelo_Taller.dll
+C:\Users\Victor\Desktop\SEMESTRE 8\ANALISIS SIS 2\CapacitacionMVC\practica1\TallerMVC_1\CapaModelo_Taller\obj\Debug\CapaModelo_Taller.pdb
