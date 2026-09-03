@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Victor\\Desktop\\SEMESTRE 8\\ANALISIS SIS 2\\CapacitacionMVC\\practica1\\TallerMVC_1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{79AE2907-2A90-4F2C-B7D9-9E364568998D}|CapaModelo_Taller\\CapaModelo_Taller.csproj|c:\\users\\victor\\desktop\\semestre 8\\analisis sis 2\\capacitacionmvc\\practica1\\tallermvc_1\\capamodelo_taller\\sentencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AE2907-2A90-4F2C-B7D9-9E364568998D}|CapaModelo_Taller\\CapaModelo_Taller.csproj|solutionrelative:capamodelo_taller\\sentencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AE2907-2A90-4F2C-B7D9-9E364568998D}|CapaModelo_Taller\\CapaModelo_Taller.csproj|c:\\users\\victor\\desktop\\semestre 8\\analisis sis 2\\capacitacionmvc\\practica1\\tallermvc_1\\capamodelo_taller\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AE2907-2A90-4F2C-B7D9-9E364568998D}|CapaModelo_Taller\\CapaModelo_Taller.csproj|solutionrelative:capamodelo_taller\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6D20F083-095C-41F2-8C06-C16CE130ECF8}|CapaVista_Taller\\CapaVista_Taller.csproj|c:\\users\\victor\\desktop\\semestre 8\\analisis sis 2\\capacitacionmvc\\practica1\\tallermvc_1\\capavista_taller\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6D20F083-095C-41F2-8C06-C16CE130ECF8}|CapaVista_Taller\\CapaVista_Taller.csproj|solutionrelative:capavista_taller\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Sentencia.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\SEMESTRE 8\\ANALISIS SIS 2\\CapacitacionMVC\\practica1\\TallerMVC_1\\CapaModelo_Taller\\Sentencia.cs",
+              "RelativeDocumentMoniker": "CapaModelo_Taller\\Sentencia.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\SEMESTRE 8\\ANALISIS SIS 2\\CapacitacionMVC\\practica1\\TallerMVC_1\\CapaModelo_Taller\\Sentencia.cs",
+              "RelativeToolTip": "CapaModelo_Taller\\Sentencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T06:03:30.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\SEMESTRE 8\\ANALISIS SIS 2\\CapacitacionMVC\\practica1\\TallerMVC_1\\CapaModelo_Taller\\Conexion.cs",
+              "RelativeDocumentMoniker": "CapaModelo_Taller\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\SEMESTRE 8\\ANALISIS SIS 2\\CapacitacionMVC\\practica1\\TallerMVC_1\\CapaModelo_Taller\\Conexion.cs",
+              "RelativeToolTip": "CapaModelo_Taller\\Conexion.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T05:55:57.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "frmPrincipal.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\SEMESTRE 8\\ANALISIS SIS 2\\CapacitacionMVC\\practica1\\TallerMVC_1\\CapaVista_Taller\\frmPrincipal.cs",
               "RelativeDocumentMoniker": "CapaVista_Taller\\frmPrincipal.cs",
