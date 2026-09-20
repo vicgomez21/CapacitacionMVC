@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using CapaControlador_prototipoumg2k26;
+using CapaVista_prototipoumg2k26.Reportes;
 
 namespace CapaVista_prototipoumg2k26.Formas
 {
@@ -114,6 +115,12 @@ namespace CapaVista_prototipoumg2k26.Formas
         private void dgvAreascubiertas_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
+        }
+
+        private void btnImprimir_Click(object sender, EventArgs e)
+        {
+            FrmReporteAreaCubierta reporte = new FrmReporteAreaCubierta();
+            reporte.Show();
         }
     }
 }
