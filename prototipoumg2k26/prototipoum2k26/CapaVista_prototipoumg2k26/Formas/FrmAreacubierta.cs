@@ -122,5 +122,10 @@ namespace CapaVista_prototipoumg2k26.Formas
             FrmReporteAreaCubierta reporte = new FrmReporteAreaCubierta();
             reporte.Show();
         }
+
+        private void btnAyuda_Click(object sender, EventArgs e)
+        {
+            Help.ShowHelp(this, "C:/Users/Victor/Desktop/SEMESTRE 8/ANALISIS SIS 2/CapacitacionMVC/AyudaRisko/CapaRisko.chm","Cliente.html");
+        }
     }
 }
