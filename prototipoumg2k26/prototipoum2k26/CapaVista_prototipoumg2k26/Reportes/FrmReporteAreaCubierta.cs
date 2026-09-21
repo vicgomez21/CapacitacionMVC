@@ -22,7 +22,7 @@ namespace CapaVista_prototipoumg2k26.Reportes
 
         private void FrmReporteAreaCubierta_Load(object sender, EventArgs e)
         {
-            ReportDataSource reportDataSource1 = new ReportDataSource("DataSet1", Areas.GetAll());
+            ReportDataSource reportDataSource1 = new ReportDataSource("ReporteAreas", Areas.GetAll());
             reportViewer1.LocalReport.ReportEmbeddedResource = "CapaVista_prototipoumg2k26.Reportes.ReportAreaCubierta.rdlc";
             reportViewer1.LocalReport.DataSources.Clear();
             reportViewer1.LocalReport.DataSources.Add(reportDataSource1);

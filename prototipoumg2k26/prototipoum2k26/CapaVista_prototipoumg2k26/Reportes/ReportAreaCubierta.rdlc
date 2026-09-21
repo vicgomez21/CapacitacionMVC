@@ -353,11 +353,11 @@
             </TablixMember>
           </TablixMembers>
         </TablixRowHierarchy>
-        <DataSetName>DataSet1</DataSetName>
+        <DataSetName>ReporteAreas</DataSetName>
         <Top>1.6002cm</Top>
         <Left>0.88053cm</Left>
         <Height>1.835cm</Height>
-        <Width>16.01367cm</Width>
+        <Width>16.01366cm</Width>
         <Style>
           <Border>
             <Style>None</Style>
@@ -445,7 +445,7 @@
     </DataSource>
   </DataSources>
   <DataSets>
-    <DataSet Name="DataSet1">
+    <DataSet Name="ReporteAreas">
       <Query>
         <DataSourceName>CapaControlador_prototipoumg2k26</DataSourceName>
         <CommandText>/* Local Query */</CommandText>
